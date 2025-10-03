@@ -1,6 +1,4 @@
-# Covid-19Analysis
 
-[Presentation](https://youtu.be/CPEK-1heh3A)
 # COVID-19 Data Analysis Pipeline
 
 ## Overview
